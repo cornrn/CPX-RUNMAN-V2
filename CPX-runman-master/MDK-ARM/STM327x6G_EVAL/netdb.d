@@ -1,0 +1,10 @@
+stm327x6g_eval\netdb.o: ..\Middlewares\Third_Party\LwIP\src\api\netdb.c
+stm327x6g_eval\netdb.o: ../Middlewares/Third_Party/LwIP/src/include/lwip/netdb.h
+stm327x6g_eval\netdb.o: ../Middlewares/Third_Party/LwIP/src/include/lwip/opt.h
+stm327x6g_eval\netdb.o: ../Inc/lwipopts.h
+stm327x6g_eval\netdb.o: ../Middlewares/Third_Party/LwIP/src/include/lwip/debug.h
+stm327x6g_eval\netdb.o: ../Middlewares/Third_Party/LwIP/src/include/lwip/arch.h
+stm327x6g_eval\netdb.o: ../Middlewares/Third_Party/LwIP/system/arch/cc.h
+stm327x6g_eval\netdb.o: ../Middlewares/Third_Party/LwIP/system/arch/cpu.h
+stm327x6g_eval\netdb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm327x6g_eval\netdb.o: ../Middlewares/Third_Party/LwIP/src/include/lwip/opt.h
